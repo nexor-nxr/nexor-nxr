@@ -13,5 +13,5 @@ technology and building the future through code.
 
 ## Let's Connect
 
-[![Agence](https://img.shields.io/badge/Portfolio-Mon%20Site-blue?style=flat-square&logo=globe)](https://wexlor-wxr.vercel.app)
-[![Email](https://img.shields.io/badge/Email-nexoragency0@gmail.com-red?style=flat-square&logo=gmail)](mailto:wexlor@zohomail.com)
+[![Agence](https://img.shields.io/badge/wxr-Mon%20agence-blue?style=flat-square&logo=globe)](https://wexlor-wxr.vercel.app)
+[![Email](https://img.shields.io/badge/Email-wexlor-red?style=flat-square&logo=gmail)](mailto:wexlor@zohomail.com)
