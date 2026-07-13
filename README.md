@@ -1,11 +1,11 @@
 <div align="center">
 
-# 👋 Hi, I'm **Djibril**
+#  Hi, I'm **Djibril**
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Self-Taught+Developer;AI+Automation+Enthusiast;Full-Stack+Learner;Cybersecurity+Explorer;Always+Building+🚀" alt="Typing SVG" />
+<img src="https://grafikart.fr/ font=Poppins&weight=600&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Self-Taught+Developer;AI+Automation+Enthusiast;Full-Stack+Learner;Cybersecurity+Explorer;Always+Building+🚀" alt="Typing SVG" />
 
 <p>
-🎓 High School Student • 💻 Self-Taught Developer • 🤖 AI Enthusiast
+ Geek •  Self-Taught Developer •  AI Enthusiast
 </p>
 
 <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=2563EB" alt="Profile Views"/>
@@ -14,7 +14,7 @@
 
 ---
 
-## 🚀 About Me
+##   About Me
 
 ```yaml
 Name: Djibril
@@ -35,7 +35,7 @@ I'm passionate about technology and enjoy creating modern web applications, expe
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 <div align="center">
 
@@ -45,7 +45,7 @@ I'm passionate about technology and enjoy creating modern web applications, expe
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <div align="center">
 
@@ -57,7 +57,7 @@ I'm passionate about technology and enjoy creating modern web applications, expe
 
 ---
 
-## 🔥 GitHub Streak
+##   GitHub Streak
 
 <div align="center">
 
@@ -67,7 +67,7 @@ I'm passionate about technology and enjoy creating modern web applications, expe
 
 ---
 
-## 📈 Contribution Graph
+##   Contribution Graph
 
 <div align="center">
 
@@ -77,17 +77,17 @@ I'm passionate about technology and enjoy creating modern web applications, expe
 
 ---
 
-## 🎯 Current Focus
+##   Current Focus
 
-- 🤖 AI Automation & Autonomous Agents
-- 🌐 Full-Stack Web Development
-- 📱 Mobile Development
-- 🔐 Cybersecurity
-- ☁️ Cloud Computing
+-   AI Automation & Autonomous Agents
+-   Full-Stack Web Development
+-   Mobile Development
+-   Cybersecurity
+-   Cloud Computing
 
 ---
 
-## 🌍 Connect With Me
+##   Connect With Me
 
 <div align="center">
 
@@ -105,7 +105,7 @@ I'm passionate about technology and enjoy creating modern web applications, expe
 
 <div align="center">
 
-### 💭 *"Building the future, one project at a time."*
+###   *"Building the future, one project at a time."*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:2563EB,100:06B6D4"/>
 
