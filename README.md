@@ -2,8 +2,6 @@
 
 #  Hi, I'm **Djibril**
 
-<img src="https://djibrilwxr.vercel.app/images/djib.jpgfont=Poppins&weight=600&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Self-Taught+Developer;AI+Automation+Enthusiast;Full-Stack+Learner;Cybersecurity+Explorer;Always+Building+🚀" alt="Typing SVG" />
-
 <p>
  Geek •  Self-Taught Developer •  AI Enthusiast
 </p>
